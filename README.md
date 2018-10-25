@@ -6,6 +6,7 @@ This is a repo with templates, examples, and things that could be forked and use
 # Full Name
 ### @github_username
 
+* Current Role [Example Role](/roles/ExampleRole.md) <- Please create the current role file in the /roles folder.
 * Business Title:```Title Here```
 * HR Level: ```Level Here```
 * Start Date: ```Start Date```
