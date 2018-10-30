@@ -4,7 +4,7 @@ This folder is intended to contain all former, current, and desired Onboarding p
 
 **I strongly suggest the employee keep a static copy in this onboarding folder. It will help promote healthy conversations and be available to remind us what the expectations are.** 
 
-## Documenting Changes in Role or Responsibilities
+## Documenting Changes in Onboarding Plans
 
 If an Onboarding Plan has a very minor change, perhaps the right thing to do is create a Pull Request documenting that change to the existing onboarding plan file, and discuss the change and confirm with the manager and employee.
 
