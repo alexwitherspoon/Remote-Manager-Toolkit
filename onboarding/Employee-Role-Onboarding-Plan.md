@@ -1,5 +1,7 @@
 **Employee Onboarding Checklist**
+
 Run this employee onboarding checklist for every new hire you take on
+
 1. Introduction
     - Before first day:
     - Prepare paperwork
