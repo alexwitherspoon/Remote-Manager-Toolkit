@@ -1,6 +1,6 @@
 ## Things to Keep in Mind
 
-This folder is intended to contain coaching materials that the employee encounters. These could come from a the employee, manager, coach, company HR, a good book, or really anywhere - this is meant to contain links/copies of these materials so that they can be referenced, and discussed as they come up. Sometimes a coaching opportunity makes a small change of behavior or thought, but some can be profound - so use this as a way to discuss new ideas as they are encountered, as well as creating a history of ideas and concepts as they are encountered and applied to your life and career. 
+This folder is intended to contain coaching materials that the employee encounters. These could come from the employee, a manager, a coach, company HR, a good book, or really anywhere - this is meant to contain links/copies of these materials so that they can be referenced, and discussed as they come up. Sometimes a coaching opportunity makes a small change of behavior or thought, but some can be profound - so use this as a way to discuss new ideas as they are encountered, as well as creating a history of ideas and concepts as they are encountered and applied to your life and career. 
 
 **I strongly suggest the employee keep a static copy in this role's folder of important concepts or snippets from larger works that were influential. It will help promote healthy conversations and be available to reference later** 
 
