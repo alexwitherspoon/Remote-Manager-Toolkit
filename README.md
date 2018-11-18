@@ -12,6 +12,7 @@ For more definitions, and ideas how to use this, check out [ABOUT.md](/ABOUT.md)
 * Business Title:```Title Here```
 * HR Level: ```Level Here```
 * Start Date: ```Start Date```
+* Location: ```Timezone, City, Office Name```
 
 ## Current Responsibilities
 
@@ -27,7 +28,7 @@ If you ever change managers, this repo is *your* repo, and you can bring it with
 
 One meeting per month will be set aside to do a lightweight dedicated conversation about goals, critical feedback, and making sure that manager and staff are aligned status and progress. These should help build up to annual performance reviews and help me better advocate for you. 
 
-## 1-1 Async
+## 1-1 Asynchronous
 Create an issue weekly, add content whenever things come to mind, and review when possible during 1-1 Sync meetings. It's perfectly fine to say 'none' to any of these. 
 
 ### Basic Issue Template
@@ -39,7 +40,7 @@ Create an issue weekly, add content whenever things come to mind, and review whe
 > 
 > /cc @github_username
 
-## 1-1s Sync
+## 1-1s Synchronous
 
 Go over any Async content in the issue, add any additional detail and either end early, or discuss any topic the staff wants to talk about - it's their meeting.
 
