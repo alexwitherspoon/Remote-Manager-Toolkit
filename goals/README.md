@@ -1,6 +1,6 @@
 ## Things to Keep in Mind
 
-This folder is meant to hold all monthly goal setting documents. Each document should represent an iteration of the process, and be freshly created with an open PR to contain all conversation and document progress made. There is an example Pull Request demonstrating this idea named "[Create Oct-2018-Goals.md](https://github.com/alexwitherspoon/Remote-Manager-Toolkit/pull/2)" 
+This folder is meant to hold all monthly goal setting documents. Each document should represent an iteration of the process, and be freshly created with an open [Pull Request](https://help.github.com/articles/about-pull-requests/) to contain all conversation and document progress made. There is an example [Pull Request](https://help.github.com/articles/about-pull-requests/) demonstrating this idea named "[Create Oct-2018-Goals.md](https://github.com/alexwitherspoon/Remote-Manager-Toolkit/pull/2)" 
 
 ### Why this Structure and Cadence?
 Far too often I see minimal or no emphasis on coaching, alignment, or said another way growth of our employees. This is meant to help frame positive conversations about improvement, just like a coach would for a professional athlete. This should not be focused on punishment, or used to defeat employees, but instead help safely challenge them to grow, be healthy, and be happy.

@@ -6,6 +6,6 @@ This folder is intended to contain all former, current, and desired Onboarding p
 
 ## Documenting Changes in Onboarding Plans
 
-If an Onboarding Plan has a very minor change, perhaps the right thing to do is create a Pull Request documenting that change to the existing onboarding plan file, and discuss the change and confirm with the manager and employee.
+If an Onboarding Plan has a very minor change, perhaps the right thing to do is create a [Pull Request](https://help.github.com/articles/about-pull-requests/) documenting that change to the existing onboarding plan file, and discuss the change and confirm with the manager and employee.
 
-For a larger change, such a new set of responsibilities, or membership to a new team with different onboarding, I'd suggest creating a new file and creating a Pull Request for discussion, so that the employee can track the progress and changing expecations they are learning. I also suggest that if the employee has a goal in mind as a future that may require onboarding, they should document that in this folder and reference it as needed to prepare.
+For a larger change, such a new set of responsibilities, or membership to a new team with different onboarding, I'd suggest creating a new file and creating a [Pull Request](https://help.github.com/articles/about-pull-requests/) for discussion, so that the employee can track the progress and changing expecations they are learning. I also suggest that if the employee has a goal in mind as a future that may require onboarding, they should document that in this folder and reference it as needed to prepare.
