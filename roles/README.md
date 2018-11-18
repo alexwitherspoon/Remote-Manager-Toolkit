@@ -5,6 +5,6 @@ This folder is intended to contain all former, current, and desired Roles an ind
 
 ## Documenting Changes in Role or Responsibilities
 
-If a role has a very minor change, perhaps the right thing to do is create a Pull Request documenting that change to the existing role file, and discuss the change and confirm with the manager and employee.
+If a role has a very minor change, perhaps the right thing to do is create a [Pull Request](https://help.github.com/articles/about-pull-requests/) documenting that change to the existing role file, and discuss the change and confirm with the manager and employee.
 
-For a larger change, or a level change, I'd suggest creating a new file and creating a Pull Request for discussion, so that the employee can track the progress and changing roles and responsibilities they have taken on. I also suggest that if the employee has a role in mind as a future goal, they should document that in this folder and use that to reference to frame the difference between the current roles and responsibilities and the desired role and responsibility.
+For a larger change, or a level change, I'd suggest creating a new file and creating a [Pull Request](https://help.github.com/articles/about-pull-requests/) for discussion, so that the employee can track the progress and changing roles and responsibilities they have taken on. I also suggest that if the employee has a role in mind as a future goal, they should document that in this folder and use that to reference to frame the difference between the current roles and responsibilities and the desired role and responsibility.
