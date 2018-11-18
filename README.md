@@ -22,7 +22,7 @@ Please link, or copy content here describing clearly and concisely the responsib
 
 As a manager, I want you to feel empowered to not just do the job today, but also plan and document your career so I can help you grow and be successful in work and in life. My goal is to help you be a great staff member here, but also set you up for success wherever your career takes you. Let's use this space to figure out how we will work together to make this happen. Look at everything in this document as a strong suggestion, but not an edict, or precise and perfect process - if the process below isn't working, let's find a new way to do it that works for both of us. 
 
-If you ever change managers, this repo is *your* repo, and you can bring it with you to your next manager to help give you more continuity if you like.
+If you ever change managers, this repo is *your* repo, and you can bring it with you to your next manager to help give you more continuity if you like. Since it is stored in a Git repo, you can keep a private copy with you at all times, and any changes will be tracked to ensure an accurate record.
 
 ## Monthly Reviews & Goal Setting
 
