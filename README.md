@@ -40,7 +40,7 @@ Create an issue weekly, add content whenever things come to mind, and review whe
 > 
 > /cc @github_username
 
-## 1-1s Synchronous
+## 1-1 Synchronous
 
 Go over any Async content in the issue, add any additional detail and either end early, or discuss any topic the staff wants to talk about - it's their meeting.
 
