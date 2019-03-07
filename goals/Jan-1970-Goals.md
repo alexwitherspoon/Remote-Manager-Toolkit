@@ -21,7 +21,7 @@ Where do you want to be by the end of this year?
 
 ## Important Accomplishments
 
-This is a section to list out things you have helped with that are notable to you, and you want to call out. It could be a large important effort, but it could also just be something you are particularly proud of. This could be something specific that you did to help achieve a goal above. This list can be long, or short - and what goes on it should be up to you, this is the space you call attention to yourself and your efforts. Ideally these are URL links to tangible examples of real things you've help accomplish, or tangible write-ups/blogs posts about those things. 
+This is a section to list out things you have helped with that are notable to you, and you want to call out. It could be a large important effort, but it could also just be something you are particularly proud of. This could be something specific that you did to help achieve a goal above as a stretch assignment for example. This list can be long, or short - and what goes on it should be up to you, this is the space you call attention to yourself and your efforts, and things we want to be able to come back and reflect on later. Ideally these are URL links to tangible examples of real things you've helped accomplish, or tangible write-ups/blog posts/artifacts about those things. 
 
 - Code I wrote
   - https://github.com/github/project/pull/1
