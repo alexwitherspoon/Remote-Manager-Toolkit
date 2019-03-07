@@ -19,6 +19,21 @@ Where do you want to be by the end of this year?
 | _Improve communication with team members_ | _Participate in more team conversations, technical or interpersonal, to improve team cohesion. Speak up in regularly recurring team meetings ~once a week or participate in Slack conversations in public team channel ~3x a week_ | _~Once a week over video chat or ~3x a week over Slack_ | 🍰  _**Exceeds expectations:** Vastly increased presence in Slack conversations, helps others pair when they need assistance or is able to assist in finding the proper resource_ |
 |  |  |  |  |
 
+## Important Accomplishments
+
+This is a section to list out things you have helped with that are notable to you, and you want to call out. It could be a large important effort, but it could also just be something you are particularly proud of. This could be something specific that you did to help achieve a goal above. This list can be long, or short - and what goes on it should be up to you, this is the space you call attention to yourself and your efforts. Ideally these are URL links to tangible examples of real things you've help accomplish, or tangible write-ups/blogs posts about those things. 
+
+- Code I wrote
+  - https://github.com/github/project/pull/1
+  - https://github.com/github/project/pull/2
+  - https://github.com/github/project/pull/3
+  - https://github.com/github/project/pull/4
+- Blog Articles I wrote
+  - https://github.com/blogArticle1
+  - https://github.com/blogArticle2
+- Image I helped Design
+  - https://github.githubassets.com/images/modules/logos_page/Octocat.png
+
 ### Emotional Labor and Context
 _Please be sure to note any additional emotional labor that has happened throughout the month. These also help us remember what was happening this month that made work easier or harder than it should have been when we reference this in the future._
 
