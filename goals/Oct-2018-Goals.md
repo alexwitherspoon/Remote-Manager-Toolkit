@@ -46,5 +46,5 @@ _Based on your performance in relation to your responsibilities, you are current
 _What areas need critical improvement? - If none are required, this will be marked as "No areas need improvement at this time." - There should be no negative stigma with something showing up on this list, the focus should be on how we resolve and move on from issues as they come up. I am excited to help an employee through a challenge, but I do not want to see anyone persistantly over time underperforming because we haven't been able to overcome the challnges that come up._
 
 | Skill | Description | Time frame | Assessment of goal |
-|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-------------------------------------------------------------------------------|
+|---|---|---|---|
 |  |  |  |  |
