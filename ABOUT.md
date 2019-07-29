@@ -8,3 +8,6 @@ I created this repo not to be an exhaustive and perfect resource, but instead as
 > Put Simply - I want to minimize secrets, surprises, and increase transparency, and consistency. 
 
 To see more about this topic, check out this blog post which goes into more depth here: [https://alexwitherspoon.com/publications/remote-manager-toolkit](https://alexwitherspoon.com/publications/remote-manager-toolkit)
+
+
+### [Get Started Now with One Button Click!](https://github.com/alexwitherspoon/Remote-Manager-Toolkit/generate)
