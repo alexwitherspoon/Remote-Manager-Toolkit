@@ -1,3 +1,8 @@
+# Critical Privacy Update - 11-23-2019
+
+One of the critical components of one on one coaching is creating private and safe spaces to explore growth, failure, and the full human experience of the situations encountered. - This critical point of privacy allows for deeply impactful conversations, and is a fundamental component ethically, and professionally to maintain the integrity of that honest and safe space to collaborate inside. While I was very optimistic to experiment with this framework using a new tool in Git hosted on GitHub and while there have been many positives - I have come to learn that the kind of privacy required for this tool to be effective is not possible on the GitHub platform, nor was it designed for this purpose in mind even if the content is within a private repository. It can not be guaranteed that this information will not be seen by others without record, reason or cause to see it, and for that reason I can no longer suggest using this framework on GitHub for this kind of sensitive information. I am glad the experiment could happen, and I learned a lot in the process, and I am thankful for those that helped me develop, test, and evolve this over time. I still stand by the content, and it's effectiveness has worked in many instances for me in my career of managing and coaching others so I will leave the content on GitHub in hopes of sharing it, but I can no longer recommend utilizing this framework, or works like it on GitHub with real human data or sensitive information.
+
+
 # Remote-Manager-Toolkit
 https://github.com/alexwitherspoon/Remote-Manager-Toolkit
 
