@@ -56,7 +56,7 @@ Go over any Async content in the issue, add any additional detail and either end
 > 
 > **Outcomes**
 > * What should we celebrate?
-> * What are large/long lived blockers?
+> * Any large/long lived blockers?
 > * Any large changes, PTO or Leave coming up?
 > * How do you feel about current work/situation?
 > * Open Conversation for Social/Professional Development
